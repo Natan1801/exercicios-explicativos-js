@@ -25,4 +25,3 @@ console.log(dobro(2))//4
 
 //Arrow Function - sem parâmetros
 const saudacao = () => 'Okay, google!'
- 
